@@ -1,0 +1,12 @@
+{
+  "DatabasePath": "D:/Tools&Misc/Tools/winstall_database.json",
+  "LogFile": "D:/Tools&Misc/Tools/winstall.log",
+  "InstallLocations": {
+    "Default": "G:/Misc",
+    "IDE": "G:/IDEs",
+    "Browser": "C:/Program Files/Browsers",
+    "Utility": "C:/Tools/Utilities",
+    "GameEngine": "G:/GameEngine",
+    "MM": "G:/Multimedia"
+  }
+}
