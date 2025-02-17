@@ -1,2 +1,2 @@
 # winstall
-A simple and user friendly package manager based on Winget.
+A simple and user friendly package manager for Windows based on Winget.
